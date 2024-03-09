@@ -1,0 +1,26 @@
+{
+"name": "FitTrackPr00",
+"version": "1.0.0",
+"description": "FitTrackPro is a comprehensive fitness tracking application that offers personalized workout plans",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai17/FitTrackPr00.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai17",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}

@@ -1,0 +1,1 @@
+Description: FitTrackPro is a comprehensive fitness tracking application that offers personalized workout plans, nutritional guidance, and progress monitoring. Whether you're a beginner or a seasoned athlete, FitTrackPro is your digital companion for a healthier lifestyle.
